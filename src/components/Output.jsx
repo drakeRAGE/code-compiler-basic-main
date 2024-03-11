@@ -31,9 +31,9 @@ const Output = ({ editorRef, language }) => {
 
   return (
     <Box w="50%">
-      <Text mb={2} fontSize="lg">
+      {/* <Text mb={2} fontSize="lg">
         Output
-      </Text>
+      </Text> */}
       <Button
         variant="outline"
         colorScheme="green"
