@@ -15,8 +15,6 @@
     "@emotion/styled": "^11.11.0",
     "@monaco-editor/react": "^4.6.0",
     "axios": "^1.6.7",
-    "bootstrap": "^5.3.3",
-    "firebase": "^10.8.1",
     "framer-motion": "^11.0.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
